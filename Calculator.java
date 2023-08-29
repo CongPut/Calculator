@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class asg1{
+public class Calculator{
     public static void main(String[] args) {
         int operator;
         double num, total;
